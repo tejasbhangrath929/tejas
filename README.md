@@ -1,4 +1,3 @@
-# tejas
-# it's just a practice.
-It's a markdown file in this repository.
-### Just a change.
+# Data-Science-Capstone-Project---Tejas-Bhangrath
+
+On this repository, you will find all the files related to Data Science Capstone Project.
